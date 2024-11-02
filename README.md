@@ -1,4 +1,4 @@
-![image](https://drive.google.com/file/d/1hx4GmSuwDs1qQX7g9KUn24wgaYa1coG6/view?usp=sharing)
+![image](https://github.com/Kunalpanigrahi03/terminal-portfolio/blob/main/images/image_name.jpg)
 
 Personal portfolio.
 100% handmade without any dependencies.  
