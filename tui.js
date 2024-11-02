@@ -381,7 +381,7 @@ async function displayContent() {
     logoElement.loading = "eager";
     logoElement.src = logoFileName;
     logoElement.id = "logo";
-    logoElement.alt = "Wallenart";
+    logoElement.alt = "";
 
     logoContainer.appendChild(logoElement);
 

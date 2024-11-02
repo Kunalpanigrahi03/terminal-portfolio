@@ -2,28 +2,27 @@
   "data": [
     {
       "content": [
-        "Hi, I'm {{Arthur}} Wallendorff 🤙",
-        "A {{backend-focused}} software engineer and {{father}}."
+        "Hi, I'm {{Kunal Panigrahi}} 😎",
+        "A {{full-stack}} software engineer in training and {{master of late-night coding snacks}}!"
       ]
     },
     {
       "content": [
         "Although my focus is on backend, most of my professional experience has been as a {{full-stack}} developer.",
-        "I also enjoy programming low level stuff, like {{C}} and tinkering with {{electronics}}."
+        "I also enjoy programming {{AI Chatbots}} using {{ML Algorithms}}, like {{Trigon}} and integrating it with {{web apps}}."
       ]
     },
     {
       "content": [
-        "Another great interest of mine is {{UX design}}, that I like to approach in a broader sense and not only through user interfaces.",
-        "I'm a {{passionate}} developer, always looking for new challenges and opportunities to learn."
+        "I am focused on {{learning and gaining expertise}} in {{Cloud technologies}} like {{GCP}}, continuously seeking opportunities to broaden my skill set in this area.",
+        "I'm a {{Zealous}} developer, always looking for new challenges and opportunities to learn."
       ]
     },
     {
       "content": [
-        "Nowadays, you can find me on <a href=\"https://x.com/AutisticOvrflow\" target=\"_blank\" class=\"text-orange\">X (Twitter)</a>.",
-        "If you like cringe-inducing experiences, feel free to connect on <a href=\"https://www.linkedin.com/in/arthur-wallendorff/\" target=\"_blank\" class=\"text-blue\">LinkedIn</a>.",
-        "You can always check out my work on <a href=\"https://www.github.com/zyriab/\" target=\"_blank\" class=\"text-pink\">GitHub</a>.",
-        "You can find my resumé over here => <a href=\"/wallendorff-arthur-resume.pdf\" class=\"text-orange\">resumé</a>."
+        "Nowadays, you can find me on <a href=\"https://www.linkedin.com/in/kunalpanigrahi/\" target=\"_blank\" class=\"text-blue\">LinkedIn</a>. Feel free to connect — Actively seeking internships and full-time opportunities.",
+        "You can always check out my work on <a href=\"https://github.com/Kunalpanigrahi03\" target=\"_blank\" class=\"text-pink\">GitHub</a>.",
+        "You can find my resumé over here => <a href=\"/KUNAL_PANIGRAHI_FTE_INTERN_2025_RESUME.pdf\" target=\" class=\"text-orange\">resumé</a>." 
       ]
     },
     {
