@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "name": " Java",
+      "content": [
+        "Java is a {{high-level}}, {{class-based}}, {{object-oriented}} programming language widely used for {{backend development}}, {{enterprise applications}}, and {{Android development}}.",
+        "Its {{versatility}}, {{robust libraries}}, and {{cross-platform compatibility}} make it a {{reliable choice}} for building scalable applications.",
+        "While it may not offer as low-level control as languages like C, Java prioritizes {{security}} and {{memory management}} with its {{garbage-collected environment}}.",
+        "Java is {{powerful}} due to its {{extensive standard library}} and {{frameworks}}, ideal for {{large-scale systems}}.",
+        "I've been using Java for over {{two years}} in projects ranging from {{digital signature systems}} to {{security testing}} in telecommunications.",
+        "If I were an {{architect}}, Java would be my {{foundation}}."
+      ],
+      "snippet": "java"
+    },
+    {
+      "name": " C",
+      "content": [
+        "C is a {{programming language}} mainly used for {{low-level}} development.\nIt is {{fast}}, {{simple}}, and extremely {{powerful}}.",
+        "It has been around since the {{70s}} and is still used today in {{operating systems}}, {{embedded systems}}, {{video games}}, {{time-sensitive}} algorithms and much more.\nThe device that you are currently using has its very {{core}} written in C, all kind of devices like {{your monitor}}, {{car}}, and {{spaceships}} (hi Elon) do {{extensive}} use of C.",
+        "It is {{fast}} because it is {{compiled}} to {{machine code}}.\nIt is {{powerful}} because it is {{statically typed}} and {{low-level}}.\nIt is {{simple}} because it comes with almost {{no bloat}}.",
+        "C can be {{difficult}} to {{learn}} and {{maintain}} but it is a {{very powerful}} tool that can be used to {{build}} almost anything.\nOne of its {{strength}} (but also pitfall) is the fact that the programmer has to {{manually}} allocate and free {{memory}}, opening the possibility for {{extremely efficient}} software but also for dreaded {{memory leaks}}.",
+        "C is {{my very first}} programming language, I've been dabbling with it since {{2018}} and I am still learning a lot about it.\nI mainly use it to work on {{embedded systems}}, as I enjoy {{bare-metal}} programming.\nIt is also an invaluable {{learning tool}}, especially when coupled with very low-level projects and {{algorithms}} development.",
+        "If I were {{King Arthur}}, C would be my {{Excalibur}}."
+      ],
+      "snippet": "c"
+    },
+    {
+      "name":" CPP",
+      "content": [
+        "C++ is a {{programming language}} that bridges the gap between {{high-level}} and {{low-level}} programming, making it a {{versatile}} choice for a wide range of {{applications}}.\nIt is {{powerful}}, {{efficient}}, and offers a {{rich}} set of features that cater to both {{system-level}} programming and {{application}} development.",
+        "For many developers, C++ is both a {{blessing}} and a {{challenge}}. Its {{extensive}} feature set, including {{object-oriented programming}}, {{templates}}, and the {{Standard Template Library}} (STL), provides immense {{flexibility}} and {{power}}. However, this {{complexity}} can also lead to steep {{learning curves}} and potential {{pitfalls}}, especially for those new to programming.",
+        "C++ is {{fast}} because it is {{compiled}} to {{machine code}}, allowing for {{performance optimizations}} that are critical in {{resource-constrained}} environments. It is {{powerful}} due to its ability to manipulate {{hardware resources}} directly, enabling developers to write programs that can interact closely with the {{underlying system}}.",
+        "One of C++'s {{strengths}} lies in its ability to support multiple {{programming paradigms}}, including {{procedural}}, {{object-oriented}}, and {{generic programming}}. This {{versatility}} allows developers to choose the best approach for their specific {{problem domain}}. However, with great {{power}} comes great {{responsibility}}; C++ requires careful {{memory management}}, as it does not have {{automatic}} garbage collection like some higher-level languages. This opens the door for both highly {{efficient}} software and the risk of {{memory leaks}} if not managed properly.",
+        "I have been working with C++ for several {{years}}, and it remains one of my {{favorite}} languages due to its {{performance}} and {{flexibility}}. I have used it to develop everything from {{high-performance}} applications to {{complex}} game engines, and I appreciate the {{control}} it provides over {{system resources}}.",
+        "If I were {{Ada Lovelace}}, C++ would be my {{engine of innovation}}."
+      ],
+      "snippet" : "cpp"
+    },
+    {
+      "name":" Python",
+      "content": [
+        "Python is a {{programming language}} that emphasizes {{readability}} and {{simplicity}}, making it a {{popular}} choice for a wide range of {{applications}}.\nIt is {{versatile}}, {{dynamic}}, and boasts a {{rich}} ecosystem of libraries and frameworks that cater to both {{beginners}} and {{experienced developers}}.",
+        "For many developers, Python is both a {{blessing}} and a {{comfort}}. Its {{intuitive}} syntax and extensive {{standard library}} provide immense {{flexibility}} and {{ease of use}}. However, this {{simplicity}} can sometimes lead to performance {{trade-offs}}, especially in {{compute-intensive}} applications.",
+        "Python is {{fast}} to develop with because of its {{interpreted}} nature and the ability to write code quickly without the need for extensive {{boilerplate}}. It is {{powerful}} due to its support for {{multiple programming paradigms}}, including {{procedural}}, {{object-oriented}}, and {{functional programming}}.",
+        "One of Python's {{strengths}} lies in its vast community and the availability of third-party libraries, which allow developers to tackle a wide variety of {{problems}} without reinventing the wheel. However, this {{abundance}} can also lead to {{overwhelm}} for newcomers trying to choose the right tools for their {{projects}}.",
+        "I have been working with Python for about {{two years}}, and it has become one of my {{favorite}} languages due to its {{ease of use}} and {{powerful}} libraries. I have used it for everything from {{web development}} to {{data analysis}}, and I appreciate how quickly I can go from {{idea}} to {{implementation}}.",
+        "If I were {{Alan Turing}}, Python would be my {{tool of choice}}."
+      ],
+      "snippet": "py"
+    },
+    {
+      "name": " HTML",
+      "content": [
+        "HTML is the {{cornerstone}} of the world wide web. It is used to {{organize}} and categorize the content of a {{website}}.",
+        "I have been using HTML for over {{4 years}} and I am very familiar with it. I have used it to build websites, web apps, and desktop apps.",
+        "I have used HTML to build {{static}} websites, {{dynamic}} websites, {{responsive}} websites, and {{progressive}} web apps.",
+        "Did you know that HTML was created by {{Tim Berners-Lee}} in {{1991}}? It has since evolved significantly.",
+        "If I were {{Antonio de Torres Jurado}}, HTML would be my {{trusty chisel}}."
+      ],
+      "snippet": "html"
+    },
+    {
+      "name": " CSS",
+      "content": [
+        "CSS is the {{paint}} of the world wide web. It is used to {{style}} and {{decorate}} the content of a {{website}}.",
+        "Although I have been using CSS for as long as I have been using HTML, I am not as familiar with it.",
+        "Like many programmers, I have a {{love-hate}} relationship with CSS. I love it because it allows me to {{express}} my creativity. I hate it because it is {{inconsistent}} and {{unpredictable}}.",
+        "If I were {{Bob Ross}}, CSS would be my {{happy little accidents}}."
+      ],
+      "snippet": "css"
+    },
+    {
+      "name": " JavaScript",
+      "content": [
+      "JavaScript is the {{cogs}} of the world wide web. It is used to {{power}} the content of a {{website}} and make things {{interactive}}.",
+      "I have been using JavaScript for nearly {{4 years}} and I am very familiar with it. I have used it to build all kinds of solutions, from {{websites}} to {{mobile apps}}, even desktop applications.",
+      "There is a joke about JavaScript that goes like this: {{JavaScript}} is so {{fast}} that it can {{render}} a {{progress bar}} in {{1 second}}.",
+      "People who tend to {{like}} JavaScript usually end up trying to write everything in JavaScript. This is called {{JavaScript fatigue}}.\nI personally prefer to use the right tool for the right job and tend to use JavaScript when {{time}} is of the essence and I want to quickly {{iterate}} over a piece of software.\nIt's excellent for {{prototyping}} and {{rapid development}}.",
+      "The legend says that {{Brendan Eich}} created JavaScript in {{10 days}}. That would explain why it is so {{messy}} and {{weird}}.",
+      "If I were {{Abby Peterson}}, JavaScript would be my {{chainsaw}}."
+      ],
+      "snippet": "js"
+    },
+    {
+      "name": " TypeScript",
+      "content": [
+          "TypeScript is JavaScript with {{types}}. It is used to {{prevent}} errors and make JavaScript {{predictable}}.",
+          "As you can see in the code snippet below, it is almost {{identical}} to JavaScript. The only difference is that it has {{types}} and a few other {{goodies}} sprinkled around for good measure.\nI have been using TypeScript for over {{1 year}} and I am still getting familiar with it.",
+          "If I have time to set up a {{build pipeline}} and I want to make sure that my code is {{robust}} and {{predictable}}, I will use TypeScript over JavaScript.",
+          "{{Types}} represent the {{intent}} of the programmer. They are a {{contract}} between the programmer and the compiler/transpiler.\nThey make working and maintaining bigger software much easier and {{safe}}.\n{{Transitioning}} from JavaScript to TypeScript was very {{easy}} since most of my past experience has been with {{strongly typed}} languages; programming without types actually feels {{weird}} to me.",
+          "If I were {{Tenzing Norgay}}, TypeScript would be my {{belay device}}."
+      ],
+      "snippet": "ts"
+    },
+    {
+      "name": "󰎙 Node.js",
+      "content": [
+          "Node.js is a {{JavaScript}} runtime. It is used to {{run}} JavaScript or TypeScript outside of the {{browser}}.\nYou can think of it as the {{engine}} that powers {{Google Chrome}} being extracted to be used on a {{server}}.",
+          "I have been using Node.js for over {{2 years}} and although there are many things left for me to {{explore}} and that I'd love to dive deeper in the {{C++ layer}} of the engine, I'm quite familiar with it.",
+          "I have used Node.js to build the backend of {{websites}}, {{web apps}}, and {{desktop apps}}.",
+          "If I were {{Miyamoto Musashi}}, Node.js would be my {{paddle}}."
+      ],
+      "snippet": "mjs"
+    },
+    {
+      "name": "󰡷 MySQL",
+      "content": [
+          "MySQL is a popular {{relational database management system}} ({{RDBMS}}). It is used to {{store}} and {{retrieve}} data efficiently.",
+          "One of the {{key}} features of MySQL is its ability to handle {{large volumes}} of data while providing {{fast query performance}}. It organizes data into {{tables}}, allowing for structured storage and easy access through a {{query language}} called {{SQL}}.",
+          "To interact with MySQL, you use {{SQL}} to define what data you want to {{retrieve}} or {{manipulate}}, and the database takes care of the underlying {{operations}}. This makes it a {{powerful}} tool for developers looking to manage data effectively.",
+          "I have been using MySQL for about {{2 years}} and I am pretty {{acquainted}} with its features and {{optimizations}}. I have used it to build the backend of {{web apps}} and manage data for various {{projects}}.",
+          "If I were {{Tony Stark}}, MySQL would be my {{Arc Reactor}}."
+      ],
+      "snippet": "mysql"
+    },
+    {
+      "name": " PostgreSQL",
+      "content": [
+        "PostgreSQL or Postgres is a {{relational database}}. It is used to {{store}} and {{retrieve}} data.\n A relational database is a type of database that {{organizes}} data into tables, which are {{structured collections}} of records or {{rows}}, each containing a set of attributes or {{columns}}.",
+        "To interact with a relational database, you need to use a {{query language}} called {{SQL}}.\nSQL is a {{declarative}} language, meaning that you {{declare}} what you want to {{retrieve}} and the database {{figures out}} how to do it.",
+        "I have been using PostgreSQL for about {{1 year}} and I am still learning a lot about it. I have used it to build the backend of {{web apps}} and {{mobile apps}}.",
+        "If I were {{King George V}}, PostgreSQL would be my {{Merchant Navy}}."
+      ],
+      "snippet": "sql"
+    },
+    {
+      "name": "󰙨 MongoDB",
+      "content": [
+          "MongoDB is a popular {{NoSQL}} database. It is used to store and retrieve data in a flexible, {{document-oriented}} format.",
+          "One of the biggest advantages of MongoDB is its ability to handle {{unstructured data}} and its {{scalability}}. It organizes data in collections of documents, which can have varying structures, allowing for dynamic and agile data modeling.",
+          "To interact with MongoDB, you use a query language called {{MongoDB Query Language (MQL)}}. This language allows you to specify exactly what data you want to retrieve or manipulate, making it easy to work with complex data types.",
+          "I have been using MongoDB for about 2 years and I am very familiar with its features and optimizations. I have used it to build the backend of web apps and manage data for various projects.",
+          "If I were {{Leonardo da Vinci}}, MongoDB would be my {{Renaissance}}."
+      ],
+      "snippet": "mongo"
+    },
+    {
+      "name": " React",
+      "content": [
+          "React is a {{JavaScript}} framework. It is used to {{build}} user interfaces.\nIt is {{declarative}}, {{component-based}} and {{unidirectional}}.",
+          "React is {{declarative}} because you {{declare}} what you want to {{render}} and React {{figures out}} how to do it.\nReact is {{component-based}} because you {{split}} your user interface into {{small}} and {{reusable}} components.\nReact is {{unidirectional}} because data flows in a {{single}} direction, from the {{top}} to the {{bottom}}.",
+          "I have been using React for over {{2 years}} and I am quite familiar with it.\nI have used it to build the {{user interfaces}} of {{websites}} and {{web apps}}.",
+          "React is a very popular framework in the industry, although it is quite {{heavy}} and {{slow}} to {{render}} compared to other frameworks like {{Svelte}} or {{Vue}} or even lower-level solutions like {{HTMX}}.",
+          "If I were {{Joe Dalton}}, React would be my {{ball and chain}}."
+      ],
+      "snippet": "tsx"
+    },
+    {
+      "name": " Bash",
+      "content": [
+          "Bash is a {{shell}}. It is used to {{interact}} with the {{operating system}}.",
+          "It's useful to {{navigate}} the {{file system}}, {{install}} and {{update}} software, {{manage}} processes, {{configure}} the {{operating system}} and {{automate}} tasks.",
+          "I have been using Bash for over {{3 years}} but, when doing more than a basic task, I usually rely on {{AI assisted programming}} to work with it as it is not a tool I often use, nor is it easy to {{maintain}}.\nI have used it to {{automate}} the {{build}} and {{deployment}} of various software, as well as {{connect tools}} together like {{GitHub}} and {{WSL}}, for example.",
+          "If I were {{Cave Johnson}}, Bash would be my {{sentry turrets}}."
+      ],
+      "snippet": "sh"
+    },
+    {
+      "name": " Next.js",
+      "content": [
+          "Next.js is a {{React framework}}. It is used to {{build}} {{server-rendered applications}} and {{static websites}}.",
+          "It is designed for {{performance}}, {{scalability}}, and {{ease of use}}. Next.js simplifies the process of building React applications by providing features like {{automatic server rendering}} and {{static site generation}}.",
+          "It allows developers to create {{pages}} as {{React components}}, which can be rendered on the {{server}} or the {{client}}, depending on the needs of the application.",
+          "I have been using Next.js for over {{1 year}} and I am quite familiar with its {{capabilities}}. I have used it to build the {{user interfaces}} of websites and web applications that require {{fast loading times}} and {{SEO optimization}}.",
+          "Next.js is a very popular framework in the industry, especially for projects that need to balance {{performance}} with {{developer experience}}.",
+          "If I were in {{Stranger Things}}, Next.js would be my {{flashlight}} in the {{Upside Down}}."
+      ],
+      "snippet": "yml"
+    },
+    {
+      "name": "󰸏 GCP",
+      "content": [
+          "GCP or Google Cloud Platform is a {{cloud computing}} platform. It is used to {{host}} and {{scale}} software as well as a plethora of other {{services}}.",
+          "I have been using GCP for over {{1 year}} but only used a few of the available services.\nI have used it for {{OAuth}}, {{Cloud Buckets}}, and {{Dialogflow}}.",
+          "GCP is a {{very powerful}} tool that can be used to {{host}} and {{scale}} almost anything.",
+          "If I were {{R2D2}}, GCP would be my {{tool kit}}."
+      ],
+      "snippet": null
+    },
+    {
+      "name": " Git",
+      "content": [
+        "Git is a {{version control system}}. It is used to {{track}} and {{manage}} changes to {{files}}.\nIt's useful to {{collaborate}} on {{projects}} and {{keep track}} of {{changes}}.",
+        "I have been using Git for over {{3 years}} and I am very familiar with it.\nI have used it to {{collaborate}} on {{projects}} with {{teams}} of {{various sizes}} as well as {{manage}} my own personal projects.",
+        "Git is a {{very powerful}} tool that can be used to {{track}} and {{manage}} almost anything, not just code!",
+        "If I were {{Hermes}}, Git would be my {{winged sandals}}."
+      ],
+      "snippet": null
+    },
+    {
+      "name": " Docker",
+      "content": [
+          "Docker is an {{open-source}} platform for automating the deployment, scaling, and management of applications using {{containerization}}. It allows developers to package applications and their dependencies into {{containers}}, ensuring that they run consistently across different computing environments.\nDocker simplifies the process of {{developing}} and {{deploying}} applications, making it a great tool for {{prototyping}} and {{collaborating}} on software projects.",
+          "I usually work with Docker when I want to {{streamline}} my development workflow or when I need to {{ensure}} that my applications run smoothly in different environments. It’s especially useful for {{microservices}} architecture and for managing complex applications with multiple components.",
+          "If I were {{Captain Picard}}, Docker would be my {{starship}}."
+      ],
+      "snippet": null
+    },
+    {
+      "name": " Python Libraries",
+      "content": [
+          "Python libraries like {{NumPy}}, {{Pandas}}, {{OpenCV}}, {{TensorFlow}}, {{Flask}}, and {{Scikit-learn}} are essential tools for data manipulation, analysis, and machine learning. They provide powerful functionalities that simplify complex tasks and enhance productivity in various domains.",
+          "I have worked extensively with these libraries and find them invaluable for tasks ranging from {{data analysis}} with {{Pandas}} to {{image processing}} with {{OpenCV}}. Each library has its unique strengths, making it easier to {{build}} and {{deploy}} applications in fields like {{data science}}, {{machine learning}}, and {{web development}}.",
+          "The biggest {{challenge}} with using these libraries is keeping up with their rapid development and the need for {{consistent updates}} to ensure compatibility. However, the vibrant {{community}} and extensive {{documentation}} make it easier to overcome these hurdles.",
+          "If I were {{Ada Lovelace}}, Python libraries would be my {{instruments of innovation}}."
+      ],
+      "snippet": null
+    },
+    {
+      "name": "󰍘 Google Firebase",
+      "content": [
+          "Google Firebase is a {{platform}} that provides a suite of tools and services for building and managing web and mobile applications. It is used to {{simplify}} the development process by offering features like {{real-time databases}}, {{authentication}}, and {{cloud functions}}.",
+          "I have been learning Firebase recently and find it to be an invaluable resource for {{rapid development}}. Its integration with other Google services and its ability to handle backend tasks allows developers to focus more on {{building}} user-friendly applications without worrying about server management.",
+          "One of the biggest {{advantages}} of using Firebase is its {{real-time capabilities}}, which enable seamless data synchronization across clients. However, navigating its various features and understanding the best practices for {{scalability}} can be a bit challenging for newcomers.",
+          "If I were {{Harvey Specter}}, Google Firebase would be my {{ace in the hole}}."
+      ],
+      "snippet": null
+    },
+    {
+      "name": "󰓌 StackOverflow",
+      "content": [
+        "StackOverflow is a famous {{website}} where you can find any {{answer}} to any technical question, as long as you are ready to swim across an {{ocean}} of smugness and judgement.\nIt also has a lot of variations, geared toward {{specific industries}} and niches, even ones that are not technical at all.",
+        "It is like a {{lighthouse}} in the darkest of nights and, as long as you understand what you find, an {{amazing tool}} for any programmer.",
+        "If I were {{Ash Ketchum}}, StackOverflow would be my {{Pokédex}}."
+      ],
+      "snippet": null
+    },
+    {
+      "name": "󱚦 AI Assisted Programming",
+      "content": [
+        "AI assisted programming is the new {{cool}} kid that just arrived.\nWe could say it's a mix of {{Googling}} and {{hazardous pair programming}} on steroids.",
+        "The main tools I use are {{GitHub Copilot}}, {{ChatGPT}} and {{Claude Sonnet}} and although I still have to study the practice much more to be really {{efficient}}, they give me a nice {{boost}} in {{productivity}}.\nWhen coupled with certain languages like {{Python}}, it sometime feels like I am the copilot!",
+        "If I were {{Masterchief}}, AI assisted programming would be my {{drunk Cortana}}."
+      ],
+      "snippet": null
+    },
+    {
+      "name": "󰢚 Human Languages",
+      "content": [
+        "I am at least as {{Human}} as Mark Zuckerberg, therefore, I speak {{Human languages}}.\nI am {{fluent}} in {{English}}, {{Hindi}}, and {{Odia}}. \nहिंदी भाषा विश्व की सबसे अधिक बोली जाने वाली भाषाओं में से एक है, जिसमें लगभग {{600 मिलियन}} लोग बोलते हैं।\nइसके अलावा, हिंदी भाषा {{देवनागरी}} लिपि में लिखी जाती है, जो कई अन्य भाषाओं के लिए भी उपयोग की जाती है।",
+        "01001001 01100110 00100000 01001001 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 00100000 {{01100011 01101111 01101101 01110000 01110101 01110100 01100101 01110010}} 00101100 00100000 01001000 01110101 01101101 01100001 01101110 00100000 01101100 01100001 01101110 01100111 01110101 01100001 01100111 01100101 01110011 00100000 01110111 01101111 01110101 01101100 01100100 00100000 01100010 01100101 00100000 01101101 01111001 00100000 {{01100011 01101111 01101101 01101101 01110101 01101110 01101001 01100011 01100001 01110100 01101001 01101111 01101110 00100000 01110000 01110010 01101111 01110100 01101111 01100011 01101111 01101100}} 00101110"
+      ],
+      "snippet": null
+    }
+  ]
+}

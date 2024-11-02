@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "name": "Pre-Intern/Trainee",
+      "company": "Chicago Mercantile Exchange",
+      "date": "Sep 2024 - Now",
+      "title": "Apprentice (Java, Spring, JavaScript, MySQL)",
+      "content": [
+        "Through comprehensive sessions with top executives, I’ve gained deep insights into {{investment fundamentals}}, {{primary and secondary markets}}, {{derivatives}}, and {{trading psychology}}, building a solid foundation in financial markets.",
+        "Currently, I’m applying this knowledge to develop {{XML2RDBMS}}, a tailored project aligned with the company’s core use case, receiving guidance and assessment from experienced mentors to ensure precision and impact."
+      ]
+    },
+    {
+      "name": "Project Intern",
+      "company": "Centre for Development of Telematics",
+      "date": "May 2023 - July 2023",
+      "title": "Software Engineer Intern (Java, Spring, JNI, REST API, IText, Security Testing)",
+      "content": [
+        "Architected a {{Digital Signature Certificate}} system using {{Java}}, {{Spring}}, and {{JNI}}, enhancing secure document signing and verification.",
+        "Integrated {{IText}} libraries with {{REST API}} for seamless PDF updates, improving operational efficiency by {{40%}} and data integrity.",
+        "Performed rigorous security testing with tools like {{JMeter}}, {{Burp Suite}}, and {{OWASP ZAP}}, identifying and mitigating {{15+}} critical vulnerabilities."
+      ]
+    },
+    {
+      "name": "Content Writer",
+      "company": "IoT Lab, KIIT",
+      "date": "Jan 2023 - Now",
+      "title": "Content Developer & Strategist",
+      "content": [
+        "Authored {{10+ articles}} and {{blog posts}} for IoT Lab’s website, collaborating with a {{team of 5}} to align content strategy with lab goals.",
+        "Achieved an {{80% alignment}} with reader interests, enhancing {{lab visibility}} and {{engagement}} within the tech community."
+      ]
+    }
+  ]
+}

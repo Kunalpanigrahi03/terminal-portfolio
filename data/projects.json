@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "name": "XML 2 RDBMS",
+      "year": 2024,
+      "githubUrl" : "https://github.com/Kunalpanigrahi03/XML_to_RDBMS",
+      "content": [
+          "The {{XML 2 RDBMS}} table schema generator is a specialized tool designed for {{developers}} and {{data engineers}}. It addresses the need for a streamlined solution to convert {{XML files}} into {{relational database schemas}}.",
+          "The application offers two primary functionalities: {{generating a new schema}} from an XML file and {{loading an XML file}} into an {{existing schema}}. It performs essential {{validations}} on the XML file, including {{type}}, {{extension}}, and {{structure}}, displaying error messages in case of validation failures.",
+          "For valid files, the tool efficiently {{generates database tables}} and presents the results to the user. Additionally, when loading files into an existing schema, the application ensures proper validation before integrating the data into the database. The design is optimized for {{performance}}, accommodating both {{small}} and {{large files}}."
+      ],
+      "technologies": [
+        "{{Java}}",
+        "JavaScript",
+        "{{MySQL}}",
+        "Spring"
+      ]
+    },
+    {
+      "name": "LinkList",
+      "year": 2024,
+      "demoUrl": "https://sharelink-vivek.vercel.app/",
+      "content": [
+          "LinkList is a fully customizable social media reference website developed using {{Next.js}}, which has improved interaction rates by 30%.",
+          "The application optimizes data handling with {{MongoDB}}, reducing retrieval times by 25%.",
+          "It integrates {{Google OAuth}} via {{GCP}}, securing over 50 accounts and boosting login efficiency by 30%.",
+          "Additionally, the deployment process on {{Vercel}} is streamlined through automated {{CI/CD pipelines}}, enhancing scalability."
+      ],
+      "technologies": ["{{Next.js}}", "TailwindCSS", "{{JavaScript}}", "HTML", "{{MongoDB}}", "GCP"]
+    },
+    {
+      "name": "Travigo",
+      "year": 2024,
+      "demoUrl": "https://travigo.onrender.com/",
+      "content": [
+          "Travigo is a scalable, real-time collaborative travel web application engineered using {{Node.js}} and {{Express.js}}.",
+          "The application effectively manages high-traffic listings with {{MongoDB}}, handling up to 100 CRUD requests per second.",
+          "An {{NLP chatbot}} powered by {{TensorFlow}} has been integrated, achieving an impressive 85% query resolution accuracy.",
+          "Additionally, a recommendation system for hotels and solo trip listings has been implemented, inspired by {{Travigo}} and {{Airbnb}}."
+      ],
+      "technologies": [
+        "{{EJS}}",
+        "MongoDB",
+        "{{Node.js}}",
+        "Express.js",
+        "{{Cloudinary}}",
+        "Mapbox",
+        "{{TensorFlow}}",
+        "Flask"
+      ]
+    },
+    {
+      "name": "Notionistic",
+      "year": 2024,
+      "githubUrl": "https://github.com/Kunalpanigrahi03/notionistic",
+      "content": [
+          "Notionistic is a Twilio WhatsApp Bot integrated with the {{Gemini Pro API}} to auto-generate {{Notion}} pages, increasing user productivity by 40%.",
+          "Additionally, Notionistic implements real-time {{Notion API}} integration for seamless user note synchronization."
+      ],
+      "technologies": ["{{TypeScript}}", "Notion API", "{{Gemini Pro API}}", "Twilio", "{{MongoDB}}"]
+    },
+    {
+      "name": "kunal's portfolio",
+      "year": 2024,
+      "content": [
+        "This website was built using only HTML, CSS and JavaScript with {{no other dependencies}} or tooling than an external API to fetch {{Bible}} verses.\nIt is a {{100% original UX & UI}} that I built and designed, based on {{terminal user interfaces}} (aka {{TUI}}).",
+        "It is also a {{static website}} that is {{completely responsive}}, with a quite distinct {{mobile}} and {{desktop}} UX.\nI've always {{loved}} TUI and wanted to give this experience to {{you}}, dear visitor.",
+        "I also wanted to {{showcase}} my {{skills}} as a {{full-stack}} developer by building a {{fast}} and {{responsive}} website that is {{unique}} and {{interesting}} in itself.",
+        "I hope you {{enjoy}} your stay and {{come back}} soon! ;)"
+      ],
+      "technologies": ["{{HTML}}", "CSS", "{{JavaScript}}"]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+CREATE DATABASE IF NOT EXISTS CompanyDB;
+
+USE CompanyDB;
+
+CREATE TABLE IF NOT EXISTS Employees (
+    EmployeeID INT AUTO_INCREMENT PRIMARY KEY,
+    FirstName VARCHAR(50) NOT NULL,
+    LastName VARCHAR(50) NOT NULL,
+    Email VARCHAR(100) UNIQUE NOT NULL,
+    HireDate DATE NOT NULL,
+    Salary DECIMAL(10, 2) NOT NULL
+);
+
+INSERT INTO Employees (FirstName, LastName, Email, HireDate, Salary) VALUES
+('John', 'Doe', 'john.doe@example.com', '2022-01-15', 60000.00),
+('Jane', 'Smith', 'jane.smith@example.com', '2021-03-22', 75000.00),
+('Emily', 'Johnson', 'emily.johnson@example.com', '2023-05-10', 50000.00);
+
+SELECT * FROM Employees
+WHERE Salary > 55000
+ORDER BY Salary DESC;
+
+UPDATE Employees
+SET Salary = Salary * 1.10
+WHERE EmployeeID = 1;
+
+DELETE FROM Employees
+WHERE EmployeeID = 3;
